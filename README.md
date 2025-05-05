@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project focuses on the preprocessing of a dataset containing over 1,300 laptop product listings from a client's e-commerce platform (sourced via Kaggle). In competitive digital markets, extracting insights from such data is crucial. This work outlines the systematic steps taken to clean, structure, and prepare the dataset, addressing inconsistencies and missing values to improve reliability for analysis. The goal is to enable strategic insights into how technical specifications and brand influence pricing, setting the foundation for data-driven e-commerce strategies.
+The ETL process focuses on the preprocessing of a dataset containing over 1,300 laptop product listings from a client's e-commerce platform (sourced via Kaggle).
 
 # Dataset
 
